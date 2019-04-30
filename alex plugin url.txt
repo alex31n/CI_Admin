@@ -1,0 +1,7 @@
+
+
+CodeIgniter HMVC Extensions
+https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
+
+CodeIgniter-MY_Model
+https://github.com/avenirer/CodeIgniter-MY_Model
